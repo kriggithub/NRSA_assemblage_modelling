@@ -35,7 +35,7 @@ Raw data are from the **NRSA 2013–2014** survey ("Rivers and Streams 2013-2014
 | `data_preparation/` | Data preparation workflow |
 | `data_preparation/data_prep_code.R` | Builds the taxon lookup, presence/absence matrix, site metadata (incl. reference classification), site predictors, exclusion log and variable dictionary; summarises candidate domains and taxa |
 | `data_preparation/README.md` | Step-by-step notes documenting each selection and exclusion decision |
-| `data_preparation/data_prep_workspace.RData` | Saved R workspace from the data preparation script |
+| `data_preparation/data_prep_workspace.RData` | R workspace saved by `data_prep_code.R` (`save.image`); generated locally, not tracked |
 | `data_preparation/raw_data/` | Raw NRSA 2013–2014 tables and technical support document (see [Data](#data)) |
 
 ## Reproducing

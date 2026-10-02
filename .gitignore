@@ -1,6 +1,8 @@
 .Rproj.user
 .Rhistory
 .RData
+*.RData
+README.html
 .Ruserdata
 
 # Third-party PDFs (kept locally, not tracked)
