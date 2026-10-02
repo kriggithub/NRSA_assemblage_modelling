@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Third-party PDFs (kept locally, not tracked)
+readings/*.pdf
+data_preparation/raw_data/*.pdf
